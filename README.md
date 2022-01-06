@@ -1,2 +1,10 @@
-# RobloxGameBotter
-A useful roblox game botter that basically creates account from now.gg and then joins the game.
+## Roblox Game Botter
+An upcoming roblox game botter that increases a games visit count using image detection, artifical intellegence, etc.
+
+### Functioning
+Uses [`https://now.gg`](https://now.gg) to create roblox accounts, join the game, and leave.
+
+### To-Do
+- [ ] Finish The Script 
+- [ ] Add Image Detection
+- [ ] Following Users
